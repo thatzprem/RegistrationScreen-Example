@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D94D6267-8985-4D26-BB6D-6A794B8AFDAD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestAPS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>21A1241B-6DB1-4C23-8BB1-AA36A6E02AB5</key>
+		<string>https://github.com/thatzprem/SampleTryOuts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestAPS/TestAPS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>21A1241B-6DB1-4C23-8BB1-AA36A6E02AB5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thatzprem/SampleTryOuts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>21A1241B-6DB1-4C23-8BB1-AA36A6E02AB5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>21A1241B-6DB1-4C23-8BB1-AA36A6E02AB5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SampleTryOuts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
