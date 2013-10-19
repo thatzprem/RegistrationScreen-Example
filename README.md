@@ -9,7 +9,8 @@ It includes the below features,
  2. Auto glow on the selected text boxes and passcode fields
  3. Previous, Next and Done keyboard toolbar implementation
  4. Auto scroll for the textfields area below the keyboard
- 5. Passcode match, email match/format validation.
- 
- 
- Credits - Michael Tyson - TPKeyboardAvoidingScrollView
+ 5. Passcode match, email match/format validation
+
+
+
+Credits - Michael Tyson - TPKeyboardAvoidingScrollView
