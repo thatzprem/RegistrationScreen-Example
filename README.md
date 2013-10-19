@@ -13,4 +13,6 @@ It includes the below features,
 
 
 
-Credits - Michael Tyson - TPKeyboardAvoidingScrollView
+Credits:
+- Michael Tyson - TPKeyboardAvoidingScrollView
+- Kinglate - JYTextField
