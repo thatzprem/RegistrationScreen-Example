@@ -10,9 +10,7 @@ It includes the below features,
  3. Previous, Next and Done keyboard toolbar implementation
  4. Auto scroll for the textfields area below the keyboard
  5. Passcode match, email match/format validation
-
-
-
+ 
 Credits:
 - Michael Tyson - TPKeyboardAvoidingScrollView
 - Kinglate - JYTextField
