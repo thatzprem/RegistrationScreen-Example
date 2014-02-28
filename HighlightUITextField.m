@@ -15,7 +15,7 @@
 #define cRatio 1
 #define bColor RGB(166, 166, 166)
 #define bWidth 2
-#define lColor RGB(195, 33, 72)
+#define lColor RGB(0, 162, 266)
 #define lSize 8
 #define lbColor RGB(235, 235, 235)
 
